@@ -10,6 +10,3 @@ The python notebook in this repository aims to:
 * Generate two-dimensional random data points.
 * Implement the kmeans algorithm.
 * Visualize the behavior of the algorithm.
-
-## ToDo:
-1. On each plot, show the line that represents the centroid moviment.
